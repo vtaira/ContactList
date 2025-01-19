@@ -10,6 +10,7 @@ public class Teenager extends Person {
         return age;
     }
 
+
     public String toString(){
         return super.toString() + " Age: " + age;
     }
